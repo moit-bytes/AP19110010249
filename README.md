@@ -1,8 +1,8 @@
 # Android-Development-Using-Java
 
-## It's a collection of all the apps which I did as a part of learning Android development using Java.
+### It's a collection of all the apps which I did as a part of learning Android development using Java.
 
-## Technological Stack :
+### Technological Stack :
 * Android Studio 
 * Java 
 
