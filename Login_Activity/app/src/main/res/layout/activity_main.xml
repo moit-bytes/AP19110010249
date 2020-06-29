@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context=".MainActivity">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Customer Portal"
+            android:textSize="40sp"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:fontFamily="sans-serif"
+            android:textColor="#EE2281"
+            android:layout_marginBottom="100dp"
+            android:layout_marginTop="50sp"
+            />
+
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter your username"
+            android:textSize="25sp"
+            android:fontFamily="sans-serif"
+            android:layout_marginBottom="40sp"
+            android:padding="10dp"
+            android:id="@+id/user"
+            />
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Password"
+            android:textSize="25sp"
+            android:fontFamily="sans-serif"
+            android:layout_marginBottom="80dp"
+            android:padding="10dp"
+            android:id="@+id/pass"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:text="LOGIN"
+            android:gravity="center"
+            android:background="#28CA04"
+            android:textSize="20sp"
+            android:padding="10dp"
+            android:id="@+id/login"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Register"
+            android:gravity="center"
+            android:background="#FF6F22"
+            android:textSize="20sp"
+            android:padding="10dp"
+            android:id="@+id/register"
+
+            />
+
+
+
+    </LinearLayout>
+
+</ScrollView>

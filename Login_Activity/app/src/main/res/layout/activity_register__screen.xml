@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context=".Register_Screen">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Registration"
+            android:textSize="40sp"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:fontFamily="sans-serif"
+            android:textColor="#EE2281"
+            android:layout_marginBottom="100dp"
+            android:layout_marginTop="50sp"
+            />
+
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter your username"
+            android:textSize="25sp"
+            android:fontFamily="sans-serif"
+            android:layout_marginBottom="40dp"
+            android:padding="10dp"
+            />
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Password"
+            android:textSize="25sp"
+            android:fontFamily="sans-serif"
+            android:layout_marginBottom="40dp"
+            android:padding="10dp"
+            />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Type in your Email"
+            android:textSize="25sp"
+            android:fontFamily="sans-serif"
+            android:layout_marginBottom="80dp"
+            android:padding="10dp"
+            />
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Register"
+            android:gravity="center"
+            android:background="#FF6F22"
+            android:textSize="20sp"
+            android:padding="10dp"
+            android:id="@+id/reg"
+            />
+
+    </LinearLayout>
+
+</ScrollView>
