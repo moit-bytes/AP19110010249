@@ -20,7 +20,7 @@
 #### 5. MyCamera - [Try the Apk now](https://github.com/moit-bytes/Android-Development-Using-Java/blob/master/Apks/my_camera.apk)
 
 
-## Contributors ✨
+## Author ✨
 <table>
   <tr>
      <td align="center"><a href="https://github.com/moit-bytes"><img src="https://avatars1.githubusercontent.com/u/53662024" width="100px;" alt=""/><br /><sub><b>Mohit Kumar</b></sub></a><br /></td>
