@@ -9,8 +9,12 @@
 
 ## Below are the apps and their apk files link :
 
-### 1. Counting App - [Try the Apk now](https://github.com/moit-bytes/Android-Development-Using-Java/blob/master/Apks/counting_app.apk) 
+#### 1. Counting App - [Try the Apk now](https://github.com/moit-bytes/Android-Development-Using-Java/blob/master/Apks/counting_app.apk) 
 
-### 2. Score Counter - [Try the Apk now](https://github.com/moit-bytes/Android-Development-Using-Java/blob/master/Apks/Score_Counter.apk)
+#### 2. Score Counter - [Try the Apk now](https://github.com/moit-bytes/Android-Development-Using-Java/blob/master/Apks/Score_Counter.apk)
 
-### 3. Login Activity - [Try the Apk now](https://github.com/moit-bytes/Android-Development-Using-Java/blob/master/Apks/Login_Activity.apk)
+#### 3. Login Activity - [Try the Apk now](https://github.com/moit-bytes/Android-Development-Using-Java/blob/master/Apks/Login_Activity.apk)
+
+#### 4. SharingText - [Try the Apk now](https://github.com/moit-bytes/Android-Development-Using-Java/blob/master/Apks/sharing_text.apk)
+
+#### 5. MyCamera - [Try the Apk now](https://github.com/moit-bytes/Android-Development-Using-Java/blob/master/Apks/my_camera.apk)
