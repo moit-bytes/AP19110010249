@@ -19,6 +19,10 @@
 
 #### 5. MyCamera - [Try the Apk now](https://github.com/moit-bytes/Android-Development-Using-Java/blob/master/Apks/my_camera.apk)
 
+#### 6. TwoActivities - [Try the Apk now](https://github.com/moit-bytes/AP19110010249/blob/master/Apks/TwoActivities.apk)
+
+#### 7. RegistrationForm - [Try the Apk now](https://github.com/moit-bytes/AP19110010249/blob/master/Apks/RegisterationForm.apk)
+
 
 ## Author ✨
 <table>
