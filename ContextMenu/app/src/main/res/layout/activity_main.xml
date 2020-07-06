@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context=".MainActivity">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="St Xavier's School"
+        android:layout_margin="30dp"
+        android:textSize="20sp"
+        android:textColor="#F44336"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:id="@+id/sch_1"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Delhi Public School"
+        android:layout_margin="30dp"
+        android:textSize="20sp"
+        android:textColor="#F44336"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:id="@+id/sch_2"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Chinmaya Vidyalaya"
+        android:layout_margin="30dp"
+        android:textSize="20sp"
+        android:textColor="#F44336"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:id="@+id/sch_3"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="De Nobili FRI"
+        android:layout_margin="30dp"
+        android:textSize="20sp"
+        android:textColor="#F44336"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:id="@+id/sch_4"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="Press and hold the school name to know more about it"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:gravity="center"
+        android:fontFamily="sans-serif"
+
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"
+        android:text="Long Press Me"
+        android:textAllCaps="false"
+        android:textStyle="bold"
+        android:background="#FF5722"
+        android:textSize="20sp"
+        android:padding="15dp"
+        android:textColor="#ffffff"
+        android:id="@+id/button"
+        android:layout_marginBottom="10dp"
+        />
+
+
+    </LinearLayout>
+
+
+</ScrollView>
