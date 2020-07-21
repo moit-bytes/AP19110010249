@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RoomDatabaseTask</string>
+
+    <string-array name="department">
+        <item>Please select Department</item>
+        <item>CSE</item>
+        <item>EEE</item>
+        <item>ECE</item>
+        <item>Mech</item>
+        <item>BCom</item>
+
+    </string-array>
+</resources>
